@@ -22,7 +22,7 @@ Find the green "Use this template" button in the top left of the screen. Click t
 
 ## Create a New Repository
 
-On the "Create a new repository" screen, fill in a name for your new repository in the middle of the page. It is suggested to use "NRTechfolio." Click the green "Create repository" button on the bottom right. Github will then create your new repository using the temmplate and redirect you to the new repository when finished.
+On the "Create a new repository" screen, fill in a name for your new repository in the middle of the page. It is suggested to use "NRTechfolio." Click the green "Create repository" button on the bottom right. Github will then create your new repository using the template and redirect you to the new repository when finished.
 
 # Setup Instructions
 
