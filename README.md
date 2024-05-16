@@ -6,6 +6,6 @@ For details on this professional portfolio, please see https://techfolios.github
 
 ## Turn on Pages
 
-* Go to [Settings/Pages](settings/pages)
+* Go to [Settings/Pages](../../settings/pages)
 * Find the Branch section
 * Choose the 'main' branch.
