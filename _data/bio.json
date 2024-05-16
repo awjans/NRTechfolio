@@ -45,6 +45,13 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "M.S.",
+      "startDate": "2023-05-21",
+      "endDate": "Present"
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
