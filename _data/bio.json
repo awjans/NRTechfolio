@@ -47,20 +47,18 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2026)",
       "studyType": "M.S.",
-      "startDate": "2023-05-21",
-      "endDate": "Present"
+      "startDate": "2024-08-26",
+      "endDate": "2026",
+      "courses": [
+      ]
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
-      "endDate": "Present",
+      "endDate": "2025",
       "courses": [
-        "ICS 311 - Algorithms",
-        "ICS 314 - Software Engineering I",
-        "ICS 321 - Database Systems I",
-        "HON 333 - Experiential Learning & Scholarly Engagement"
       ]
     },
     {
@@ -164,6 +162,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "DESCARTES Fellowship",
+      "date": "2024-04-17",
+      "awarder": "University of Hawaii at Manoa, NSF STEM Research and Traineeship Grant",
+      "summary": "Data in Engineering and Society: Converging Applications, Research, and Training Enhancements for Students."
+    },
     {
       "title": "Transfer Merit Scholarship",
       "date": "2023-03-23",
