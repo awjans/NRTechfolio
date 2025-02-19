@@ -12,7 +12,7 @@ labels:
 <div class="container">
     <div class="row">
         <div class="col-md-6">
-            <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+            <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg" alt="Degree Difficulty">
         </div>
         <div class="col-md-6">
             <span id="primary_advisor_span" class="badge bg-primary">Primary Advisor: </span>
