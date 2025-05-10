@@ -1,21 +1,45 @@
 {
   "basics": {
     "name": "Andrea W Jans",
-    "label": "NRT Trainee",
+    "label": "",
     "picture": "img/profile.jpg",
     "email": "awjans@hawaii.edu",
-    "website": "https://awjans.github.io/NRTechfolio/",
+    "website": "https://awjans.github.io",
     "summary": "I am an NRT DESCARTES trainee studying for an MS in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "bullets": [
+      "Data Privacy",
+      "Vendor Relations",
+      "Resource Allocation",
+      "Program Management",
+      "Performance Management",
+      "Testing",
+      "Budgeting",
+      "Risk Management",
+      "Technical Infrastructure",
+      "Cross-functional collaboration",
+      "Project Management",
+      "Change Management",
+      "Stakeholder Management",
+      "Data-driven decision-making",
+      "Team Leadership & Development"
+    ],
+    "highlights": [
+      "Educated American Electric Company LLC teams on CMMC and NIST security requirements to strengthen cybersecurity.",
+      "Collaborated cross-functionally over career to drive change, improvements, and risk mitigation efforts to position companies for growth and success.",
+      "Analyzed operations at all roles to create efficiencies, cost savings, and improvements.",
+      "Directed business and digital transformation efforts throughout career, enabling automation, streamlined operations, and operational enhancements to strengthen companies."
+    ],
     "location": {
-      "address": "",
+      "address": "4820 E Ekolu Way Apt A",
       "postalCode": "96706",
       "city": "Ewa Beach",
       "countryCode": "USA",
       "region": "Hawaii"
     },
+    "phone": "808.824.9531",
     "profiles": [
       {
-        "network": "github",
+        "network": "GitHub",
         "username": "awjans",
         "url": "https://github.com/awjans"
       },
@@ -27,11 +51,21 @@
     ]
   },
   "interests": [
-    { "name": "Automation" },
-    { "name": "Machine Learning" },
-    { "name": "Artificial Intelligence" },
-    { "name": "Internationalization" },
-    { "name": "System Administration" }
+    {
+      "name": "Automation"
+    },
+    {
+      "name": "Machine Learning"
+    },
+    {
+      "name": "Artificial Intelligence"
+    },
+    {
+      "name": "Internationalization"
+    },
+    {
+      "name": "System Administration"
+    }
   ],
   "skills": [
     {
@@ -43,7 +77,19 @@
         "Java",
         "Python",
         "Javascript",
-        "PowerShell"
+        "PowerShell",
+        "ASP.NET",
+        "PHP",
+        "HTML",
+        "CSS",
+        "XML",
+        "XSLT",
+        "VB.NET",
+        "VB6",
+        "VBA",
+        "SQL",
+        "T-SQL",
+        "PL/SQL"
       ]
     },
     {
@@ -53,6 +99,7 @@
         "React.js",
         "BootStrap",
         "jQuery",
+        "Laravel",
         "Meteor",
         "Haystack AI"
       ]
@@ -61,16 +108,19 @@
       "name": "Databases",
       "keywords": [
         "MS SQL Server",
+        "Oracle RDBMS",
         "Oracle MySQL",
+        "PostgresSQL",
         "MongoDB"
       ]
     },
     {
       "name": "Toolsets",
       "keywords": [
-        "Git/GitHub",
-        "g++",
-        "javac",
+        "Visual Studio",
+        "IntelliJ IDEA",
+        "VS Code",
+        "git/GitHub",
         "make"
       ]
     },
@@ -92,7 +142,9 @@
       "startDate": "2024-08-26",
       "endDate": "2026",
       "courses": [
-        "ICS 690: Seminar in Computer Science"
+        "ICS 690: Seminar in Computer Science",
+        "ICS 691G: Special Topics in Computer Science",
+        "ICS 691G: Special Topics in Computer Science"
       ]
     },
     {
@@ -112,10 +164,31 @@
         "ICS 321: Database Systems I",
         "ICS 332: Operating Systems",
         "ICS 355: Security and Trust I",
+        "ICS 414: Software Engineering II",
         "ICS 427: Software Quality Assurance",
         "ICS 451: Data Networks",
+        "ICS 466: Design for Mobile Devices",
         "ICS 496: Capstone Project",
         "MATH 372: Probability and Statistics"
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2022-08-22",
+      "endDate": "2023-05-12",
+      "courses": [
+        "ANTH 152: Culture and Humanity",
+        "BIOL 124: Environment & Ecology",
+        "CHEM 161: General Chemistry I",
+        "HWST 107: Hawaii:Center of the Pacific",
+        "ICS 111: Introduction to Computer Science I",
+        "ICS 141: Discrete Math for Computer Science I",
+        "ICS 170: Ethics for a Digital World",
+        "ICS 211: Introduction to Computer Science II",
+        "ICS 212: Program Structure",
+        "ICS 241: Discrete Math for Computer Science II"
       ]
     },
     {
@@ -131,175 +204,356 @@
   "work": [
     {
       "company": "American Electric Company, LLC",
-      "position": "Director, IT",
+      "address": "799 Kahelu Ave, Mililani, HI 96789",
+      "phone": "808.848.0751",
       "website": "https://www.americanelectric.com",
+      "position": "Director, IT",
+      "supervisor": "Raylyn Hose; President",
       "startDate": "2016-06-01",
       "endDate": "2025-01-24",
-      "summary": "Manage IT for a company of approximately 170 employees",
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 45,
+      "summary": "Delivered end-user technical support and server administration through effective communication, relationship-building, and problem-solving skills. Led IT department with up to 3 direct reports managing activities for 190 users. Controlled $6M budget, created and managed processes, and maintained compliance efforts. Executed identity and access management, IT strategy, and customer service functions for teams across 4 locations.",
       "highlights": [
-        "Assist employees with day-to-day computer issues",
-        "Write reports and run custom queries against the Enterprise Resource Planning system",
-        "Track computer inventory and assignments",
-        "Manage Active Directory and Group Policy"
-      ]
+        "Achieved significant cost savings, including slashing capital expenditures by $100K by transitioning servers to the cloud. Saved $10K in licensing fees annually by moving to Microsoft 365 and reduced monthly expenses by $500 with a new voice carrier.",
+        "Drove $200K in annual savings by transitioning third-party technical support provider to in-house function.",
+        "Reduced employee time sharing files by 20% by replacing file-sharing software with SharePoint, allowing better end-user experience and support.",
+        "Facilitated continuous improvement and promoted process improvements by analyzing operations, applications, systems, hardware, and staff to identify areas for enhancement aligned with end-user needs.",
+        "Strengthened cybersecurity and IT processes with new security controls, including VPN tunnels, new password policies to control password requirements, and technologies to improve email and cloud storage reliability.",
+        "Integrated Enterprise Resource Planning (ERP) system with Active Directory to streamline operations and improve efficiency using PowerShell."
+      ],
+      "supervised": 2,
+      "reason": "My position was consolidated into the corporate office.",
+      "contact": true
     },
     {
       "company": "Viewpoint Construction Software",
-      "position": "Database Specialist",
+      "address": "5665 Meadows Road, Suite 400, Lake Oswego, OR, 97035",
+      "phone": "971.255.4800",
       "website": "https://www.viewpoint.com",
+      "position": "Database Specialist",
+      "supervisor": "Aaron Sahlstrom; Director, Client Services Operations",
       "startDate": "2014-02-01",
       "endDate": "2016-05-01",
-      "summary": "Customize the software per customer specifications.",
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 40,
+      "summary": "Conceptualized innovative, customized solutions after engaging clients to understand pain points, business needs, and technical requirements. Leveraged practical communication skills to understand needs, deploy customizations, and guide customers through implementation. Recommended budget management and continuous improvement projects to boost productivity and cost savings.",
       "highlights": [
-      ]
+        "Lowered time to deploy by 90% by writing tools to capture customizations. Reviewed databases to identify areas of customization, developed procedures to update customization statements.",
+        "Developed materials and trained specialists in tools to ensure consistency and data integrity.",
+        "Improved customer satisfaction by 20% by implementing new processes to improve customer service and support."
+      ],
+      "reason": "A job in Hawaii was offered.",
+      "contact": true
     },
     {
-      "company": "CTDI",
-      "position": "Senior Software Engineer",
+      "company": "Communications Test Design, Inc.",
+      "address": "22638 NE Townsend Way, Fairview, OR 97024",
+      "phone": "503.405.3515",
       "website": "https://www.ctdi.com",
+      "position": "Senior Software Engineer",
+      "supervisor": "Philip Gieschen; Lead Programmer",
       "startDate": "2012-10-01",
       "endDate": "2014-02-01",
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 40,
       "summary": "Create software to automate the warehouse processes.",
       "highlights": [
-      ]
+        "Reduced time to pick and put by a factor of 10 by improving performance of SQL queries."
+      ],
+      "reason": "I accomplished what I was hired to do.",
+      "contact": true
     },
     {
-      "company": "Vector Software",
+      "company": "Vector Software Corporation",
+      "address": "5 Third Street, San Francisco, CA 94103",
+      "phone": "408.450.5300",
+      "website": "https://www.vectorsoftwarecorp.com",
       "position": "Senior Software Engineer",
+      "supervisor": "Rose Chu; Principal",
       "startDate": "2010-08-01",
       "endDate": "2012-09-01",
-      "summary": "Create software to extract and transform data.",
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 40,
+      "summary": "Brought in to maintain Extract-Transform-Load (ETL) processes and critical Business reports.",
       "highlights": [
-      ]
+        "Created library of C# Attribute Classes that automated reading from Database into Objects."
+      ],
+      "reason": "I accomplished what I was hired to do.",
+      "contact": true
     },
     {
       "company": "Northwest EIS OLAP",
+      "address": "404 East 15th Street, Suite 9, Vancouver, WA 98663",
+      "phone": "360.905.7934",
+      "website": "https://www.nweisolap.com",
       "position": "Senior Software Engineer",
+      "supervisor": "John Schaffers; Senior Consultant",
       "startDate": "2010-03-01",
       "endDate": "2010-06-01",
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 40,
       "summary": "Create software to extract and transform data.",
       "highlights": [
-      ]
+        "Improved performance of Visual Basic for Applications (VBA) macros."
+      ],
+      "reason": "My contract ended.",
+      "contact": true
     },
     {
       "company": "PrivacyHarbor Inc",
+      "address": "Vancouver, WA",
+      "phone": "No longer exists",
+      "website": "",
       "position": "Software Development Consultant",
+      "supervisor": "N/A",
       "startDate": "2009-11-01",
       "endDate": "2010-02-01",
+      "fullTime": false,
+      "partTime": false,
+      "volunteer": true,
+      "avgHours": 40,
       "summary": "Optimize backend code to enhance performance.",
       "highlights": [
-      ]
+        "Reduced time to load email by 80% by optimizing backend code."
+      ],
+      "reason": "Company went bankrupt.",
+      "contact": false
     },
     {
-      "company": "Vector Software",
+      "company": "Vector Software Corporation",
+      "address": "5 Third Street, San Francisco, CA 94103",
+      "phone": "408.450.5300",
+      "website": "https://www.vectorsoftwarecorp.com",
       "position": "Senior Software Engineer",
+      "supervisor": "Rose Chu; Principal",
       "startDate": "2007-11-01",
       "endDate": "2008-07-01",
-      "summary": "Create software to extract and transform data.",
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 40,
+      "summary": "Brought in to research, document and solve performance issues with Extract-Transform-Load (ETL) processes and critical Business reports.",
       "highlights": [
-      ]
+        "Reduced time to load data from over night to under an hour.",
+        "Reduced time to generate reports by 90% by optimizing SQL queries."
+      ],
+      "reason": "My disability prevented me from working.",
+      "contact": true
     },
     {
       "company": "US Digital",
+      "address": "1400 NE 136th Avenue, Vancouver, Washington 98684",
+      "phone": "360.260.2468",
+      "website": "https://www.usdigital.com",
       "position": "Senior Software Engineer",
+      "supervisor": "Bobby Wood; VP",
       "startDate": "2007-01-01",
       "endDate": "2007-10-01",
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 40,
       "summary": "Create software to automate business processes.",
       "highlights": [
-      ]
+        "Created COM plugin for FoxPro to process credit cards over encrypted internet connection. Manage selection of Enterprise Resource Planning (ERP) system to replace legacy system."
+      ],
+      "reason": "Mutual understanding that the fit was not right.",
+      "contact": true
     },
     {
-      "company": "Engenex Technologies LLC",
-      "position": "Director of Software Engineering",
+      "company": "Engenex Technologies, LLC",
+      "address": "Bellevue, WA",
+      "phone": "No longer exists",
+      "website": "",
+      "position": "Director, Software Engineering",
+      "supervisor": "Michael Mathews; President",
       "startDate": "2004-10-01",
       "endDate": "2006-12-01",
-      "summary": "Manage a team of software engineers.",
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 60,
+      "summary": "Managed and mentored a team of 12 software professionals, ensuring the successful delivery of client projects. Administered corporate network and servers, maintaining a secure and efficient IT infrastructure. Supported developers with innovative problem-solving, streamlining workflows, and implementing continuous integration. Established testing functionality to improve software quality and reliability. Manage corporate and development servers and network.",
       "highlights": [
-      ]
+        "Used continuous integration and unit testing to streamline build process and deliver the project early."
+      ],
+      "supervised": 12,
+      "reason": "Relocated.",
+      "contact": false
     },
     {
       "company": "Excell Data",
+      "address": "Redmond, WA",
+      "phone": "No longer exists",
+      "website": "",
       "position": "Associate",
+      "supervisor": "N/A",
       "startDate": "2004-05-01",
       "endDate": "2004-09-30",
-      "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 40,
+      "summary": "Design and develop a smart-client application to enable representatives to track gifts to schools and professors, and associate positive outcomes to justify activities.",
+      "reason": "Contract ended.",
+      "contact": false
     },
     {
       "company": "SBI.Razorfish",
+      "address": "Seattle, WA",
+      "phone": "No longer exists",
+      "website": "",
       "position": "Senior Developer",
+      "supervisor": "N/A",
       "startDate": "2003-01-01",
       "endDate": "2004-04-30",
-      "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 60,
+      "summary": "Complete the next phase of features for the Knowledge Management System started while working for Luminant Worldwide.",
+      "reason": "Project ended.",
+      "contact": false
     },
     {
       "company": "Luminant Worldwide",
+      "address": "Seattle, WA",
+      "phone": "No longer exists",
+      "website": "",
       "position": "Senior Technical Specialist",
+      "supervisor": "N/A",
       "startDate": "2001-10-01",
       "endDate": "2003-01-31",
-      "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 60,
+      "summary": "Manage group of six Technical Specialists. Supervise development and delivery of client projects. Architect and Deploy a Knowledge Management Solution for a Wireless Company that combined a custom web application, document management system and search engine.",
+      "reason": "Company was acquired by another company.",
+      "contact": false
     },
     {
       "company": "Vanteon",
+      "address": "Redmond, WA",
+      "phone": "No longer exists",
+      "website": "",
       "position": "Engineering Manager",
+      "supervisor": "N/A",
       "startDate": "2000-09-15",
       "endDate": "2001-09-30",
-      "summary": "Manage team of software engineers and interface with customers.",
-      "highlights": [
-      ]
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 50,
+      "summary": "Led a team of 10 software engineers, ensuring the successful delivery of client-driven projects on time and within scope. Managed client relationships post-sales turnover, serving as the primary point of contact for project execution and success. Oversaw project planning, task assignments, and resource allocation to optimize team productivity. Mentored and guided software engineers, fostering professional growth and technical excellence. Proactively identified and addressed project challenges, ensuring smooth execution and client satisfaction.",
+      "supervised": 10,
+      "reason": "Disagreement with management.",
+      "contact": false
     },
     {
       "company": "ELF Technologies Inc",
+      "address": "Mercer Island, WA",
+      "phone": "No longer exists",
+      "website": "",
       "position": "Senior Developer",
+      "supervisor": "N/A",
       "startDate": "2000-05-01",
       "endDate": "2000-09-15",
-      "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 50,
+      "summary": "Design and develop a web-based solution to allow submission of attorney invoices to application service provided by company, while maintaining attorney-client privilege.",
+      "reason": "I accomplished what I was hired to do.",
+      "contact": false
     },
     {
       "company": "HK Systems",
+      "address": "Seattle, WA",
+      "phone": "No longer exists",
+      "website": "",
       "position": "Senior Software Engineer",
+      "supervisor": "N/A",
       "startDate": "1995-06-01",
       "endDate": "2000-04-30",
-      "summary": "Implement an Enterprise Resource Planning system.",
-      "highlights": [
-      ]
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 50,
+      "summary": "Develop tools and techniques to integrate legacy development environment with new technologies. Generate skeleton code based on interface input, output and mapping information to speed creation of conversion and interface applications. Supervise implementation and customization of the product for customers. Work with Product Development teams to report bugs and provide suggested solutions.",
+      "reason": "I grew tired of the constant travel.",
+      "contact": false
     },
     {
       "company": "Cara Corporation",
+      "address": "Phoenix, AZ",
+      "phone": "No longer exists",
+      "website": "",
       "position": "Associate",
+      "supervisor": "N/A",
       "startDate": "1995-03-01",
       "endDate": "1995-05-30",
-      "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 50,
+      "summary": "Develop front-end application for client/server project to connect Lawyers with the Courts. Create custom Lotus Notes add-on to automate dial-up access from within the application.",
+      "reason": "The contract ended.",
+      "contact": false
     },
     {
       "company": "Maxim Group",
+      "address": "Detroit, MI",
+      "phone": "No longer exists",
+      "website": "",
       "position": "Associate",
+      "supervisor": "N/A",
       "startDate": "1994-09-01",
       "endDate": "1995-02-28",
-      "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 50,
+      "summary": "Re-engineer key legacy system to streamline maintenance of data and integration with peripheral systems. Develop process to allow data to be transferred to Lotus Notes, and the modified data to be submitted as a work order; enabling the Sales team to work in the field.",
+      "reason": "The contract ended.",
+      "contact": false
     },
     {
       "company": "Rankin Technology Group",
+      "address": "Phoenix, AZ",
+      "phone": "No longer exists",
+      "website": "",
       "position": "Software Developer",
+      "supervisor": "N/A",
       "startDate": "1993-04-01",
       "endDate": "1994-09-30",
+      "fullTime": true,
+      "partTime": false,
+      "volunteer": false,
+      "avgHours": 50,
       "summary": "Create software to automate business processes.",
-      "highlights": [
-      ]
+      "reason": "I wanted to relocate.",
+      "contact": false
     }
   ],
   "awards": [
+    {
+      "title": "W. Wesley and Hiromi Peterson Student Support Endowment",
+      "date": "2025-05-15",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Encouraging and recognizing excellence in research and/or scholarship."
+    },
     {
       "title": "DESCARTES Fellowship",
       "date": "2024-04-17",
